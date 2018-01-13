@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "PhotographyRaptor",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/c/c8/PhotogRaptor.jpg/revision/latest/scale-to-width-down/310?cb=20160602225709"
+  },
+  {
+    "id": 2,
+    "name": "SleepyGary",
+    "image": "http://www.behindthevoiceactors.com/_img/chars/sleepy-gary-rick-and-morty-67.9.jpg"
+  },
+  {
+    "id": 3,
+    "name": "CousinNicky",
+    "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/a4/a431037f6ed002491c86f9f4786a231525fa09d2_full.jpg"
+  },
+  {
+    "id": 4,
+    "name": "UncleSteve",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/5/50/UncleSteve.png/revision/latest?cb=20150823180126"
+  },
+  {
+    "id": 5,
+    "name": "MrBeauregard",
+    "image": "https://vignette.wikia.nocookie.net/xianb/images/9/97/MrBeauregard.png/revision/latest?cb=20160523183601"
+
+  },
+  {
+    "id": 6,
+    "name": "Pencilvestyr",
+    "image": "http://www.behindthevoiceactors.com/_img/chars/pencilvester-rick-and-morty-3.7.jpg"
+
+  },
+  {
+    "id": 7,
+    "name": "DuckWithMuscles",
+    "image": "http://www.behindthevoiceactors.com/_img/chars/duck-with-muscles-rick-and-morty-3.7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "MrsRefrigerator",
+    "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/1c/1c166b37a5cf97e4538e2bb7d3f8d247c92707d9_full.jpg"
+  },
+  {
+    "id": 9,
+    "name": "GhostInAJar",
+    "image": "https://i.imgur.com/zD8gCux.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Hamurai",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/b/bd/Shut_Up_Hamurai.png/revision/latest?cb=20170131022414"
+  },
+  {
+    "id": 11,
+    "name": "AmishCyborg",
+    "image": "https://vignette.wikia.nocookie.net/rickandmorty/images/a/a6/Amish_Cyborg.png/revision/latest?cb=20150821215650"
+  },
+  {
+    "id": 12,
+    "name": "Tinkles",
+    "image": "http://www.behindthevoiceactors.com/_img/chars/tinkles-rick-and-morty-3.28.jpg"
+  }
+]
